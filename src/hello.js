@@ -1,2 +1,2 @@
-const greeting = "Hello from main";
+const greeting = "Hello from feature branch";
 console.log(greeting);
